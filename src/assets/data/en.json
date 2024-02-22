@@ -2,31 +2,36 @@
   "name": "Ghazale Davarnia",
   "image": "assets/images/avatars/ghazale.davarnia.jpg",
   "professionalTitle": "Scrum Master",
-  "about": "Experienced and results-driven Scrum Master with a 7-year background in software engineering, specializing in front-end programming with Angular+4 framework. Proven track record in developing organizational software and adept at handling various departments including accounting, treasury, sales, warehousing, production, and e-commerce. Skilled in using the Azure project management system (TFS) for efficient team coordination. Currently pursuing the Professional Scrum Master™ II course.",
+  "about": "Seasoned Scrum Master with 7 years of experience in software engineering and expertise in Front End programming (Angular+4). Proficient in developing organizational software and collaborating across various departments. Adept at utilizing project management systems such as Azure TFS and Jira. Currently managing stakeholder expectations at Aasood company and enrolled in the Professional Scrum Master™ II course.",
   "workExperiences": [
     {
       "title": "Scrum Master",
-      "place": "Assoode | Tehran, Iran",
-      "employmentType": "Full-time",
-      "startDate": "Sep 2022",
+      "place": "Evolve Zenith | Muscat, Oman",
+      "employmentType": "Full-time - Remote",
+      "startDate": "Dec 2023",
       "endDate": "Present",
       "description": "",
       "tasks": [
-        "task 1"
+        "Managed daily operations for over 3 teams, totaling more than 12 programmers.",
+        "Conducted daily scrum meetings and presented progress graphs (Down-Burn and performance graphs).",
+        "Prepared daily, weekly, and monthly reports in alignment with Scrum framework.",
+        "Protected teams from external distractions, ensuring sustained high productivity."
       ]
     },
     {
       "title": "Scrum Master",
-      "place": "Amin Soft | Mashhad, Iran",
-      "employmentType": "Full-time - Remote",
-      "startDate": "Sep 2021",
-      "endDate": "Sep 2022",
+      "place": "Asoode | Tehran, Iran",
+      "employmentType": "Full-time",
+      "startDate": "Sep 2022",
+      "endDate": "Dec 2023",
       "description": "",
       "tasks": [
-        "Managed more than 5 teams (20+ programmers) remotely.",
-        "Conducted daily scrum meetings, controlled teams, and presented daily progress graphs.",
-        "Prepared daily, weekly, and monthly reports following the Scrum framework.",
-        "Protected the team from external distractions and ensured necessary resources."
+        "Coached and mentored team members on Agile practices and principles to improve efficiency and productivity.",
+        "Implemented Agile best practices to streamline processes and increase team velocity.",
+        "Worked closely with PO to identify and resolve issues impacting project timelines.",
+        "Conducted regular health checks and retrospectives to address team dynamics and identify areas for improvement.",
+        "Collaborated with stakeholders to define project requirements and ensure alignment with business objectives.",
+        "Managing stakeholder expectations and ensuring the team has the necessary resources for high-quality work."
       ]
     },
     {
@@ -34,7 +39,7 @@
       "place": "Shaygan Tadbir Parsian | Tehran, Iran",
       "employmentType": "Full-time",
       "startDate": "Sep 2017",
-      "endDate": "Aug 2021",
+      "endDate": "Aug 2022",
       "description": "",
       "tasks": [
         "Led front-end programming using Angular+4 framework.",
@@ -56,17 +61,23 @@
     {
       "fieldOfStudy": "Software Engineer",
       "degree": "Bachelor's degree",
-      "place": "University of Science and Culture",
+      "place": "Science and Culture University",
       "startDate": "2012",
       "endDate": "2017"
     }
   ],
   "technicalSkills": [
     "Azure Project Management",
-    "Jira Project Management"
+    "Jira Project Management",
+    "Confluence",
+    "Trello"
   ],
   "professionalSkills": [
-    "Daily Scrum meetings"
+    "Certified Scrum Master",
+    "Agile methodologies (Scrum, Kanban)",
+    "Team leadership and facilitation",
+    "Communication and collaboration",
+    "Problem-solving and conflict resolution"
   ],
   "languages": [
     {
