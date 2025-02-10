@@ -6,38 +6,56 @@
   "workExperiences": [
     {
       "title": "اسکرام مستر",
+      "place": "مرکز تحقیقات هوش مصنوعی پارس | تهران",
+      "employmentType": "تمام وقت",
+      "startDate": "فروردین 1403",
+      "endDate": "حالا",
+      "description": "",
+      "tasks": []
+    },
+    {
+      "title": "اسکرام مستر",
+      "place": "Evolve Zenith | عمان",
+      "employmentType": "تمام وقت - ریموت",
+      "startDate": "اردیبهشت 1402",
+      "endDate": "اسفند 1402",
+      "description": "",
+      "tasks": []
+    },
+    {
+      "title": "اسکرام مستر",
       "place": "آسود | تهران",
       "employmentType": "تمام وقت",
       "startDate": "شهریور 1401",
-      "endDate": "حالا",
+      "endDate": "دی 1402",
       "description": "",
-      "tasks": ["task 1"]
+      "tasks": []
     },
     {
       "title": "اسکرام مستر",
       "place": "امین سافت | مشهد",
       "employmentType": "تمام وقت - ریموت",
-      "startDate": "شهریور 1400",
-      "endDate": "شهریور 1401",
+      "startDate": "مهر 1400",
+      "endDate": "تیر 1401",
       "description": "",
-      "tasks": ["کار با ابزار مدیریت پروژه Jira."]
+      "tasks": []
     },
     {
       "title": "Front-End Developer",
       "place": "شایگان تدبیر پارسیان | تهران",
       "employmentType": "تمام وقت",
-      "startDate": "شهریور 1396",
+      "startDate": "اسفند 1397",
       "endDate": "شهریور 1400",
       "description": "",
-      "tasks": ["کار با ابزار مدیریت پروژه Azure DevOps."]
+      "tasks": []
     }
   ],
   "licenses": [
     {
       "title": "Professional Scrum Master™ II (PSM II)",
       "organization": "Scrum.org",
-      "date": "در حال دریافت",
-      "link": ""
+      "date": "اسفند 1403",
+      "link": "https://www.scrum.org/user/1053890"
     }
   ],
   "educations": [
