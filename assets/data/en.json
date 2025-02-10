@@ -2,20 +2,36 @@
   "name": "Ghazale Davarnia",
   "image": "assets/images/avatars/ghazale.davarnia.jpg",
   "professionalTitle": "Scrum Master",
-  "about": "Seasoned Scrum Master with 7 years of experience in software engineering and expertise in Front End programming (Angular+4). Proficient in developing organizational software and collaborating across various departments. Adept at utilizing project management systems such as Azure TFS and Jira. Currently managing stakeholder expectations at Aasood company and enrolled in the Professional Scrum Master™ II course.",
+  "about": "Motivated and goal-oriented Scrum Master with over 5 years of experience facilitating Agile development teams. Skilled in optimizing workflows, removing obstacles, and empowering teams to deliver high-quality products within deadlines and budgets. Recently attained PSMⅡ certification, demonstrating a deep understanding of Agile principles and best practices.",
   "workExperiences": [
+    {
+      "title": "Scrum Master",
+      "place": "Part AI Research Center | Tehran, Iran",
+      "employmentType": "Full-time",
+      "startDate": "Apr 2024",
+      "endDate": "Present",
+      "description": "",
+      "tasks": [
+        "Led and facilitated all Sprint events for a team of 9 developers and 2 other members, ensuring smooth collaboration and effective communication.",
+        "Successfully implemented Scrum framework, improving team efficiency and streamlined project delivery",
+        "Mentored and coached development teams on Agile methodologies, fostering a culture of continuous improvement and innovation",
+        "Collaborated with stakeholders to manage expectations, prioritize product backlog, and maintain project alignment.",
+        "Utilized Gitlab to track progress, identify risks, and measure team performance.",
+        "Achieved a 20% reduction in sprint cycle time and increased team velocity by 15%"
+      ]
+    },
     {
       "title": "Scrum Master",
       "place": "Evolve Zenith | Muscat, Oman",
       "employmentType": "Full-time - Remote",
-      "startDate": "Dec 2023",
-      "endDate": "Present",
+      "startDate": "May 2023",
+      "endDate": "Mar 2024",
       "description": "",
       "tasks": [
-        "Managed daily operations for over 3 teams, totaling more than 12 programmers.",
-        "Conducted daily scrum meetings and presented progress graphs (Down-Burn and performance graphs).",
-        "Prepared daily, weekly, and monthly reports in alignment with Scrum framework.",
-        "Protected teams from external distractions, ensuring sustained high productivity."
+        "Successfully transitioned a previously waterfall-based organization to the Scrum framework, resulting in a 30% reduction in time to market for new features.",
+        "Collaborated with cross-functional teams to break down complex user stories, optimize workflows, and enhance product quality.",
+        "Facilitated effective communication and collaboration between development, product, and business stakeholders.",
+        "Utilized data and metrics to identify process improvements and continuously refine team practices."
       ]
     },
     {
@@ -26,26 +42,37 @@
       "endDate": "Dec 2023",
       "description": "",
       "tasks": [
-        "Coached and mentored team members on Agile practices and principles to improve efficiency and productivity.",
+        "Mentored team members on Agile practices and principles, improving efficiency and productivity.",
         "Implemented Agile best practices to streamline processes and increase team velocity.",
-        "Worked closely with PO to identify and resolve issues impacting project timelines.",
+        "Leveraged Jira's reporting and dashboard features to provide real-time visibility into project progress, enhancing transparency and enabling data-driven decision-making.",
+        "Collaborated closely with Product Owner to identify and resolve issues impacting project timelines.",
+        "Managed stakeholder expectations and ensured the team had the necessary resources for high-quality work."
+      ]
+    },
+    {
+      "title": "Scrum Master",
+      "place": "AminSoft | Mashhad, Iran",
+      "employmentType": "Full-time - Remote",
+      "startDate": "Oct 2021",
+      "endDate": "Jul 2022",
+      "description": "",
+      "tasks": [
+        "Successfully implemented Jira workflows and boards, increasing team velocity by 20% through efficient prioritization and task management.",
         "Conducted regular health checks and retrospectives to address team dynamics and identify areas for improvement.",
-        "Collaborated with stakeholders to define project requirements and ensure alignment with business objectives.",
-        "Managing stakeholder expectations and ensuring the team has the necessary resources for high-quality work."
+        "Collaborated with stakeholders to define project requirements and align them with business objectives.",
+        "Designed and implemented customized Jira workflows and boards, streamlining processes and reducing average time-to-deliver by 25%."
       ]
     },
     {
       "title": "Software Engineer",
       "place": "Shaygan Tadbir Parsian | Tehran, Iran",
       "employmentType": "Full-time",
-      "startDate": "Sep 2017",
-      "endDate": "Aug 2022",
+      "startDate": "Apr 2018",
+      "endDate": "Sep 2021",
       "description": "",
       "tasks": [
         "Led front-end programming using Angular+4 framework.",
-        "Developed organizational software for diverse departments.",
-        "Utilized Azure project management system (TFS) for project coordination.",
-        "Monitored team efficiency, analyzed sprints, and streamlined work processes."
+        "Developed organizational software for diverse departments."
       ]
     }
   ],
@@ -53,8 +80,8 @@
     {
       "title": "Professional Scrum Master™ II (PSM II)",
       "organization": "Scrum.org",
-      "date": "In Progress",
-      "link": ""
+      "date": "Apr 2024",
+      "link": "https://www.scrum.org/user/1053890"
     }
   ],
   "educations": [
