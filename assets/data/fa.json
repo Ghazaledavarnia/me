@@ -11,9 +11,7 @@
       "startDate": "شهریور 1401",
       "endDate": "حالا",
       "description": "",
-      "tasks": [
-        "task 1"
-      ]
+      "tasks": ["task 1"]
     },
     {
       "title": "اسکرام مستر",
@@ -22,9 +20,7 @@
       "startDate": "شهریور 1400",
       "endDate": "شهریور 1401",
       "description": "",
-      "tasks": [
-        "کار با ابزار مدیریت پروژه Jira."
-      ]
+      "tasks": ["کار با ابزار مدیریت پروژه Jira."]
     },
     {
       "title": "Front-End Developer",
@@ -33,9 +29,7 @@
       "startDate": "شهریور 1396",
       "endDate": "شهریور 1400",
       "description": "",
-      "tasks": [
-        "کار با ابزار مدیریت پروژه Azure DevOps."
-      ]
+      "tasks": ["کار با ابزار مدیریت پروژه Azure DevOps."]
     }
   ],
   "licenses": [
@@ -55,13 +49,8 @@
       "endDate": "1396"
     }
   ],
-  "technicalSkills": [
-    "Azure Project Management",
-    "Jira Project Management"
-  ],
-  "professionalSkills": [
-    "Daily Scrum meetings"
-  ],
+  "technicalSkills": ["Azure Project Management", "Jira Project Management"],
+  "professionalSkills": ["Daily Scrum meetings"],
   "languages": [
     {
       "title": "فارسی",
